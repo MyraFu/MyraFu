@@ -1,31 +1,37 @@
-### Hi there 👋
-
-<!--
-**MyraFu/MyraFu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm JingWen(/Myra) Fu</h1>
-<h3 align="center">A QMSS student at Columbia University</h3>
+<h1 align="center">Hi 👋, I'm JingWen(Myra) Fu</h1>
+<h3 align="center">A Graduate Student at Columbia University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myrafu&label=Profile%20views&color=0e75b6&style=flat" alt="myrafu" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ullberich" target="blank"><img src="https://img.shields.io/twitter/follow/ullberich?logo=twitter&style=for-the-badge" alt="ullberich" /></a> </p>
 
-- 🌱 I’m currently learning **Modern Data Structure, NLP, Data Analysis ...**
+<h3 align="left">Things about me:</h3>
 
-- 📫 How to reach me **fjw0328@gmail.com; jf3483@columbia.edu**
+- :school: Completed the Master's Degree in Quantitative Methods in the Social Sciences program at **Columbia University in the City of New York** in December 2023.
+
+- :mortar_board: Earned a Bachelor's degree with a major in Economics from the **University of California, San Diego** in June 2021.
+
+- 🌱 Learning **Quantitative Theory and Methodology, Data Analysis(R), Machine Learning (Python), Natural Language
+Processing (Python), Time Series Analysis (R), Modern Data Structures (SQL)**
+
+- :woman_technologist: I'm passionate about Python, SQL, R, and Econometrics.
+
+- :dart: I'm actively looking for opportunities as a business analyst, data analyst 
+
+- :package:	Python Package(s) I created: [cipher](https://github.com/QMSS-G5072-2022/cipher_Fu_Jingwen.git), [ticketmyra](https://github.com/QMSS-G5072-2022/ticketmyra.git)
+
+- :brain:	Skill(s): Python, R, Excel, MySQL, Tableau
+
+- 📫 How to reach me **jf3483@columbia.edu; fjw0328@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jingwen-fu-8498b1206/](https://www.linkedin.com/in/jingwen-fu-8498b1206/)
+
+
+
+<h3 align="left">Python:</h3>
+In the Python exercises folder, I added projects about **writing functions, testing, class, web scraping, SQL query, dealing datasets...** in Python
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
